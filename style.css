@@ -1,0 +1,28 @@
+body{font-family: 'Ubuntu', sans-serif; padding-left: 3%; padding-top: 2%;}
+h3{ font-size: 25px;}
+h1{font-size: 50px;padding-top: 20px;}
+.linkbutton1{text-decoration: none; background-color: darkviolet; text-decoration-color: floralwhite; padding: 5px;}
+.msin{display: flex;}
+.yyy{text-align: center;}
+.fa-star.filled{color: rgb(175, 47, 201);
+
+}
+.fa-star.empty{ color: lightslategray;
+
+}
+.course-info2 {display: flex;}
+.courses{display: flex;}
+.course22{padding-left: 170px;}
+.course{padding-left: 170px;}
+.course3{padding-left: 170px;}
+.courses2{display: flex;}
+.course4{padding-left: 170px;}
+.course5{padding-left: 170px;}
+.course6{padding-left: 170px;}
+.course7{padding-left: 170px;}
+.course8{padding-left: 170px;}
+.course9{padding-left: 170px;}
+.courses3{display: flex;}
+.msin.img{padding: left 100px;}
+footer{text-align: center;
+background-color: rgb(5, 33, 85); color: white;}
